@@ -1,5 +1,5 @@
 # Deepseek-R1 Conversational assistant
-This script utilizes Deepseek-R1:1.5b model with speech-to-text (vosk) and text-to-speech to create a conversational assistant.
+This script utilizes Deepseek-R1:1.5b model with speech recognition (Vosk) and text-to-speech to create a conversational assistant.
 
 Currently it cannot do anything else but listen and answer. It also has a known bug with cutting the answer short from the end.
 
