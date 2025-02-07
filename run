@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source venv/bin/activate
+export OLLAMA_MODELS="$VIRTUAL_ENV/../ollama/models"
+python3 ai_tts.py
